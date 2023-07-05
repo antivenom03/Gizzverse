@@ -11,7 +11,7 @@
             "id": "454ee6555951db7d",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           },
@@ -19,8 +19,12 @@
             "id": "1ab2d79800eac43d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "deadbeat.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ],
@@ -90,6 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "deadbeat.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "deadbeat.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -116,7 +122,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "deadbeat.md"
+          }
         }
       }
     ],
@@ -134,12 +142,14 @@
   },
   "active": "1ab2d79800eac43d",
   "lastOpenFiles": [
+    "Willoughby’s Beach (song).md",
+    "Dead-Beat.md",
+    "deadbeat.md",
+    "Willoughby’s Beach (album).md",
     "Stoned Mullet.md",
     "Dustbin Fletcher.md",
-    "deadbeat.md",
     "Let it Bleed.md",
     "Crookedile.md",
-    "Willoughby’s Beach (album).md",
     "Lunch Meat.md",
     "Black Tooth.md",
     "Danger $$$.md",
