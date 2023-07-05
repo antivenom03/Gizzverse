@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "3e14c0c37ec54fc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "King Gizzard and the Lizard Wizard.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "King Gizzard and the Lizard Wizard.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "conflict-files-obsidian-git.md"
+            "file": "King Gizzard and the Lizard Wizard.md"
           }
         }
       }
@@ -144,10 +131,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3e14c0c37ec54fc7",
+  "active": "1ab2d79800eac43d",
   "lastOpenFiles": [
-    "King Gizzard and the Lizard Wizard.md",
     "conflict-files-obsidian-git.md",
+    "King Gizzard and the Lizard Wizard.md",
     "Songs/Lunch Meat.md",
     "Crookedile.md",
     "deadbeat.md",
