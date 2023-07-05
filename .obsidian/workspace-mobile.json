@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "King Gizzard and the Lizard Wizard.md",
+                "file": "12 Bar Bruise.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "King Gizzard and the Lizard Wizard.md",
+            "file": "12 Bar Bruise.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "King Gizzard and the Lizard Wizard.md",
+            "file": "12 Bar Bruise.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "King Gizzard and the Lizard Wizard.md"
+            "file": "12 Bar Bruise.md"
           }
         }
       }
@@ -131,8 +131,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54fdef9101a6beb0",
+  "active": "be023887e2480068",
   "lastOpenFiles": [
+    "Willoughby’s Beach (album).md",
+    "12 Bar Bruise.md",
+    "deadbeat.md",
     "King Gizzard and the Lizard Wizard.md",
     "Willoughby’s Beach (song).md",
     "Danger $$$.md",
@@ -140,10 +143,8 @@
     "Black Tooth.md",
     "Crookedile.md",
     "Dustbin Fletcher.md",
-    "deadbeat.md",
     "Dead-Beat.md",
     "Lunch Meat.md",
-    "Stoned Mullet.md",
-    "Willoughby’s Beach (album).md"
+    "Stoned Mullet.md"
   ]
 }

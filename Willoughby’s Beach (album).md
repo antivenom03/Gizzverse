@@ -16,4 +16,4 @@ ___
 
 ## next album
 ___
-[[12 Bar Bruise]]
+[[12 Bar Bruise (album)]]

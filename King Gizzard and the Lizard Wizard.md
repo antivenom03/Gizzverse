@@ -7,7 +7,7 @@ ___
 >[!info]- albums
 >
 >- [[Willoughby’s Beach (album)]]
->- [[12 Bar Bruise]]
+>- [[12 Bar Bruise (album)]]
 >- [[Eyes Like the Sky]]
 >- [[Float Along - Fill Your Lungs]]
 >- [[Oddments]]
