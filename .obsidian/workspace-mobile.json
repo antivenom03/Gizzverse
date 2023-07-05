@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3e14c0c37ec54fc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "King Gizzard and the Lizard Wizard.md",
+            "file": "conflict-files-obsidian-git.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "King Gizzard and the Lizard Wizard.md",
+            "file": "conflict-files-obsidian-git.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "King Gizzard and the Lizard Wizard.md"
+            "file": "conflict-files-obsidian-git.md"
           }
         }
       }
@@ -131,8 +144,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ab2d79800eac43d",
+  "active": "3e14c0c37ec54fc7",
   "lastOpenFiles": [
+    "King Gizzard and the Lizard Wizard.md",
+    "conflict-files-obsidian-git.md",
     "Songs/Lunch Meat.md",
     "Crookedile.md",
     "deadbeat.md",
@@ -157,8 +172,6 @@
     "/Dead-Beat.md",
     "/Danger $$$.md",
     "/Crookedile.md",
-    "/Black Tooth.md",
-    "/12 Bar Bruise (album).md",
     "Songs",
     "Albums"
   ]
