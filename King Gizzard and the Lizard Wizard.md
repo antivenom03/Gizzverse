@@ -4,7 +4,7 @@ WIP
 
 ## Discography 
 ___
->[!info] albums
+>[!info]- albums
 >
 >- [[Willoughby’s Beach (album)]]
 >- [[12 Bar Bruise]]

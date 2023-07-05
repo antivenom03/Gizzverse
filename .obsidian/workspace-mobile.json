@@ -1,26 +1,14 @@
 {
   "main": {
-    "id": "720d80bc73a67be5",
+    "id": "1a190ea97c1db8a2",
     "type": "split",
     "children": [
       {
-        "id": "df5b84c8cb89d331",
+        "id": "53675251059c5a6d",
         "type": "tabs",
         "children": [
           {
-            "id": "454ee6555951db7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Songs/Lunch Meat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ab2d79800eac43d",
+            "id": "be023887e2480068",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,11 +25,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f034ec3dcf59127b",
+    "id": "1b4431866fa07dc9",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "71cf09449231b449",
+        "id": "54fdef9101a6beb0",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -51,7 +39,7 @@
         }
       },
       {
-        "id": "2ec246407ec3bac8",
+        "id": "3cd55929d0fd2a04",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -66,7 +54,7 @@
         }
       },
       {
-        "id": "7af9b96272074ea8",
+        "id": "5a1296147585fde1",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -77,7 +65,7 @@
         }
       },
       {
-        "id": "3a35150f327b8910",
+        "id": "7f700a5582d5c15e",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -88,16 +76,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "81114539df678588",
+    "id": "2c431181ed546867",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "abed7c5f5da17105",
+        "id": "e14a583e0393a6b9",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Songs/Lunch Meat.md",
+            "file": "King Gizzard and the Lizard Wizard.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,24 +97,24 @@
         }
       },
       {
-        "id": "55a47410085bd1cf",
+        "id": "b8ce1f34c1cf1bde",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Songs/Lunch Meat.md",
+            "file": "King Gizzard and the Lizard Wizard.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "7ce7510e35484bec",
+        "id": "f915af3bb2a8e7f3",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "Songs/Lunch Meat.md"
+            "file": "King Gizzard and the Lizard Wizard.md"
           }
         }
       }
@@ -143,22 +131,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "454ee6555951db7d",
+  "active": "54fdef9101a6beb0",
   "lastOpenFiles": [
     "King Gizzard and the Lizard Wizard.md",
-    "Albums/Eyes Like the Sky.md",
-    "Albums/12 Bar Bruise.md",
-    "Albums/Willoughby’s Beach (album).md",
-    "Songs/Dead-Beat.md",
-    "Songs",
-    "Albums",
-    "Songs/Willoughby’s Beach (song).md",
-    "Songs/Stoned Mullet.md",
-    "Songs/Dustbin Fletcher.md",
-    "Songs/Let it Bleed.md",
-    "Songs/Crookedile.md",
-    "Songs/Lunch Meat.md",
-    "Songs/Black Tooth.md",
-    "Songs/Danger $$$.md"
+    "Willoughby’s Beach (song).md",
+    "Danger $$$.md",
+    "Let it Bleed.md",
+    "Black Tooth.md",
+    "Crookedile.md",
+    "Dustbin Fletcher.md",
+    "deadbeat.md",
+    "Dead-Beat.md",
+    "Lunch Meat.md",
+    "Stoned Mullet.md",
+    "Willoughby’s Beach (album).md"
   ]
 }
