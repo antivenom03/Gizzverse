@@ -11,20 +11,27 @@
             "id": "454ee6555951db7d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Songs/Lunch Meat.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
             "id": "1ab2d79800eac43d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "King Gizzard and the Lizard Wizard.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,6 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Songs/Lunch Meat.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -106,6 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Songs/Lunch Meat.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -116,7 +125,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Songs/Lunch Meat.md"
+          }
         }
       }
     ],
@@ -132,18 +143,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ab2d79800eac43d",
+  "active": "454ee6555951db7d",
   "lastOpenFiles": [
-    "Dead-Beat.md",
-    "Willoughby’s Beach (song).md",
-    "Willoughby’s Beach (album).md",
-    "Stoned Mullet.md",
-    "Dustbin Fletcher.md",
-    "Let it Bleed.md",
-    "Crookedile.md",
-    "Lunch Meat.md",
-    "Black Tooth.md",
-    "Danger $$$.md",
-    "King Gizzard and the Lizard Wizard.md"
+    "King Gizzard and the Lizard Wizard.md",
+    "Albums/Eyes Like the Sky.md",
+    "Albums/12 Bar Bruise.md",
+    "Albums/Willoughby’s Beach (album).md",
+    "Songs/Dead-Beat.md",
+    "Songs",
+    "Albums",
+    "Songs/Willoughby’s Beach (song).md",
+    "Songs/Stoned Mullet.md",
+    "Songs/Dustbin Fletcher.md",
+    "Songs/Let it Bleed.md",
+    "Songs/Crookedile.md",
+    "Songs/Lunch Meat.md",
+    "Songs/Black Tooth.md",
+    "Songs/Danger $$$.md"
   ]
 }
