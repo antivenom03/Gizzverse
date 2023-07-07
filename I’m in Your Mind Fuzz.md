@@ -1,0 +1,2 @@
+## next album
+[[Quarters!]]
