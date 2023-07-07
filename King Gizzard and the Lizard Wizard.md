@@ -24,7 +24,7 @@ ___
 >- [[Infest the rats’ nest]]
 >- [[K.G.]]
 >- [[L.W.]]
->- [[butterfly 3001]]
+>- [[butterfly 3000]]
 >- [[Made in Timeland]]
 >- [[Omnium Gatherum]]
 >- 

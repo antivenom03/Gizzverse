@@ -11,8 +11,12 @@
             "id": "1ab2d79800eac43d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "12 Bar Bruise (album).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -59,6 +63,14 @@
             "useHierarchy": true
           }
         }
+      },
+      {
+        "id": "3a35150f327b8910",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
@@ -73,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "12 Bar Bruise (album).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -89,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "12 Bar Bruise (album).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -99,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "12 Bar Bruise (album).md"
+          }
         }
       }
     ],
@@ -115,32 +131,32 @@
   },
   "active": "1ab2d79800eac43d",
   "lastOpenFiles": [
-    "Quarters!.md",
-    "I’m in Your Mind Fuzz.md",
-    "Paper Mâché Dream Balloon.md",
+    "Willoughby’s Beach (album).md",
+    "12 Bar Bruise (album).md",
+    "King Gizzard and the Lizard Wizard.md",
     "butterfly 3001.md",
-    "Made in Timeland.md",
-    "butterfly 3000.md",
-    "L.W..md",
-    "Infest the rats’ nest.md",
-    "Fishing for Fishies.md",
-    "Gumboot Soup.md",
-    "Polygondwanaland.md",
-    "Sketches of Brunswick East.md",
-    "Murder of the Universe.md",
-    "Flying Microtonal Banana.md",
-    "K.G..md",
-    "Nonagon Infinity.md",
     "Oddments.md",
+    "I’m in Your Mind Fuzz.md",
+    "Gumboot Soup.md",
+    "butterfly 3000.md",
     "Float Along - Fill Your Lungs.md",
     "Eyes Like the Sky.md",
-    "12 Bar Bruise (album).md",
-    "Willoughby’s Beach (album).md",
-    "King Gizzard and the Lizard Wizard.md",
-    "conflict-files-obsidian-git.md",
-    "Songs/Lunch Meat.md",
-    "Crookedile.md",
-    "deadbeat.md",
+    "Paper Mâché Dream Balloon.md",
+    "Murder of the Universe.md",
+    "Sketches of Brunswick East.md",
+    "Infest the rats’ nest.md",
+    "Nonagon Infinity.md",
+    "Quarters!.md",
+    "Polygondwanaland.md",
+    "Made in Timeland.md",
+    "L.W..md",
+    "K.G..md",
+    "Flying Microtonal Banana.md",
+    "Fishing for Fishies.md",
+    "/butterfly 3000.md",
+    "/Sketches of Brunswick East.md",
+    "/Quarters!.md",
+    "/Polygondwanaland.md",
     "Songs",
     "Albums"
   ]
