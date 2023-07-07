@@ -59,14 +59,6 @@
             "useHierarchy": true
           }
         }
-      },
-      {
-        "id": "3a35150f327b8910",
-        "type": "leaf",
-        "state": {
-          "type": "bookmarks",
-          "state": {}
-        }
       }
     ],
     "currentTab": 0
@@ -117,8 +109,6 @@
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
