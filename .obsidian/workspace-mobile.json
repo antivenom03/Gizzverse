@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "King Gizzard and the Lizard Wizard.md",
+                "file": "12 Bar Bruise (album).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "King Gizzard and the Lizard Wizard.md",
+            "file": "12 Bar Bruise (album).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "King Gizzard and the Lizard Wizard.md",
+            "file": "12 Bar Bruise (album).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "King Gizzard and the Lizard Wizard.md"
+            "file": "12 Bar Bruise (album).md"
           }
         }
       }
@@ -133,21 +133,22 @@
   },
   "active": "1ab2d79800eac43d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "12 Bar Bruise (album).md",
     "King Gizzard and the Lizard Wizard.md",
+    "/12 Bar Bruise (album).md",
+    "Dead-Beat.md",
+    "deadbeat.md",
+    "Willoughby’s Beach (album).md",
+    "conflict-files-obsidian-git.md",
     "Songs/Lunch Meat.md",
     "Crookedile.md",
-    "deadbeat.md",
     "Dustbin Fletcher.md",
-    "Willoughby’s Beach (album).md",
     "Willoughby’s Beach (song).md",
     "Stoned Mullet.md",
     "Let it Bleed.md",
     "Lunch Meat.md",
     "Danger $$$.md",
-    "Dead-Beat.md",
     "Black Tooth.md",
-    "12 Bar Bruise (album).md",
     "/Willoughby’s Beach (album).md",
     "/King Gizzard and the Lizard Wizard.md",
     "/deadbeat.md",
@@ -158,7 +159,6 @@
     "/Dustbin Fletcher.md",
     "/Dead-Beat.md",
     "/Danger $$$.md",
-    "/Crookedile.md",
     "Songs",
     "Albums"
   ]
