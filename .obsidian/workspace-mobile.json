@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nonagon Infinity.md",
-                "mode": "preview",
+                "file": "robot stop.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Nonagon Infinity.md",
+            "file": "robot stop.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Nonagon Infinity.md",
+            "file": "robot stop.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Nonagon Infinity.md"
+            "file": "robot stop.md"
           }
         }
       }
@@ -131,6 +131,8 @@
   },
   "active": "1ab2d79800eac43d",
   "lastOpenFiles": [
+    "robot stop.md",
+    "Nonagon Infinity.md",
     "Willoughby’s Beach (album).md",
     "12 Bar Bruise (album).md",
     "King Gizzard and the Lizard Wizard.md",
@@ -145,7 +147,6 @@
     "Murder of the Universe.md",
     "Sketches of Brunswick East.md",
     "Infest the rats’ nest.md",
-    "Nonagon Infinity.md",
     "Quarters!.md",
     "Polygondwanaland.md",
     "Made in Timeland.md",
@@ -156,7 +157,6 @@
     "/butterfly 3000.md",
     "/Sketches of Brunswick East.md",
     "/Quarters!.md",
-    "/Polygondwanaland.md",
     "Songs",
     "Albums"
   ]
