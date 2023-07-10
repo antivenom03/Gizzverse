@@ -13,7 +13,7 @@ ___
 >- [[Oddments]]
 >- [[I’m in Your Mind Fuzz]]
 >- [[Quarters!]]
->- [[Paper Mâché Dream Balloon]]
+>- [[Paper Mâché Dream Balloon (album)]]
 >- [[Nonagon Infinity]]
 >- [[Flying Microtonal Banana]]
 >- [[Murder of the Universe]]
