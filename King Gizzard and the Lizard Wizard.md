@@ -30,4 +30,4 @@ ___
 >- [[ice, death, planets, lungs, mushrooms, and lava]]
 >- [[laminated denim]]
 >- [[changes]]
->- [[PetroDragonic Apocalypse; or, Dawn of Eternal Night: An Annihilation of Planet Earth and the Beginning of Merciless Damnation]]
+>- [[PetroDragonic Apocalypse; or, Dawn of Eternal Night; An Annihilation of Planet Earth and the Beginning of Merciless Damnation]]
