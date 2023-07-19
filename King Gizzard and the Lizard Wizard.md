@@ -20,7 +20,7 @@ ___
 >- [[Sketches of Brunswick East]]
 >- [[Polygondwanaland]]
 >- [[Gumboot Soup]]
->- [[Fishing for Fishies]]
+>- [[Fishing for Fishies (album)]]
 >- [[Infest the rats’ nest]]
 >- [[K.G.]]
 >- [[L.W.]]

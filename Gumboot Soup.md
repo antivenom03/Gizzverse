@@ -1,3 +1,3 @@
 ## next album
 ___
-[[Fishing for Fishies]]
+[[Fishing for Fishies (album)]]

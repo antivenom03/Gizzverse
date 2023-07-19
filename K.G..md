@@ -1,6 +1,6 @@
 # tracklist
 ___
-- [[K.G.L.W.]]
+- [[K.G.L.W. (1)]]
 - [[automation]]
 - [[minimum brain size]]
 - [[straws in the wind]]
