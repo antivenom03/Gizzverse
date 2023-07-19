@@ -18,4 +18,4 @@ ___
 
 ## next album
 ___
-[[Eyes Like the Sky]]
+[[Eyes Like the Sky (album)]]

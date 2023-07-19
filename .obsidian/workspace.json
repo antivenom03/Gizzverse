@@ -11,8 +11,12 @@
             "id": "558c132dc209e9d5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Float Along - Fill Your Lungs.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Float Along - Fill Your Lungs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Float Along - Fill Your Lungs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Float Along - Fill Your Lungs.md"
+              }
             }
           }
         ]
@@ -130,6 +138,17 @@
   },
   "active": "558c132dc209e9d5",
   "lastOpenFiles": [
+    "dust in the wind.md",
+    "the killing ground.md",
+    "the god man's goat lust.md",
+    "fort whipple.md",
+    "evil man.md",
+    "drum run.md",
+    "the raid.md",
+    "year of our lord.md",
+    "Eyes Like the Sky (song).md",
+    "Eyes Like the Sky (album).md",
+    "cut throat boogie.md",
     "kepler-22b.md",
     "magenta mountain.md",
     "Omnium Gatherum.md",
