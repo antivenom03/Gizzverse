@@ -5,18 +5,40 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "King Gizzard",
+      "color": {
+        "a": 1,
+        "rgb": 16760617
+      }
+    },
+    {
+      "query": "Album",
+      "color": {
+        "a": 1,
+        "rgb": 65420
+      }
+    },
+    {
+      "query": "Song",
+      "color": {
+        "a": 1,
+        "rgb": 14502092
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.6859451982440363,
+  "centerStrength": 0.122837370242215,
+  "repelStrength": 7.37024221453287,
+  "linkStrength": 0.576124567474048,
+  "linkDistance": 146,
+  "scale": 0.6131625860094064,
   "close": true
 }
