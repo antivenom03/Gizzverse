@@ -3,12 +3,11 @@ ___
 - [[Eyes Like the Sky (song)]]
 - [[year of our lord]]
 - [[the raid]]
-- [[drum run]]
-- [[evil man]]
+- [[Song/drum run]]run]]
+- [[Song/evil man]]
 - [[fort whipple]]
 - [[the god man's goat lust]]
-- [[the killing ground]]
-- [[dust in the wind]]
+- [[the killing ground[[Son[[Song/dust in the wind]]ind]]
 - [[guns and horses]]
 ## next album
 ___

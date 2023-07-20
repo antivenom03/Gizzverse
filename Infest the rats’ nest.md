@@ -11,4 +11,4 @@ ___
 - [[hell]]
 ## next album
 ___
-[[K.G.]]
+[[Album/K.G.]]K.G.]]

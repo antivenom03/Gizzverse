@@ -1,1 +1,1 @@
-[[kepler-22b]]
+[[Song/kepler-22b]]22b]]
