@@ -11,8 +11,12 @@
             "id": "1ab2d79800eac43d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Album/laminated denim.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Album/laminated denim.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Album/laminated denim.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Album/laminated denim.md"
+          }
         }
       }
     ],
@@ -121,8 +129,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71cf09449231b449",
+  "active": "1ab2d79800eac43d",
   "lastOpenFiles": [
+    "Song/elbow.md",
+    "Song/nein.md",
     "Song",
     "Album",
     "King Gizzard and the Lizard Wizard.md",
@@ -130,15 +140,15 @@
     "Song/dust in the wind.md",
     "Album/Fishing for Fishies (album).md",
     "Song/fort whipple.md",
-    "the raid.md",
+    "Song/the raid.md",
     "Album/Eyes Like the Sky (album).md",
-    "the killing ground.md",
+    "Song/the killing ground.md",
     "Song/drum run.md",
-    "the dripping tap.md",
-    "year of our lord.md",
-    "the god man's goat lust.md",
+    "Song/the dripping tap.md",
+    "Song/year of our lord.md",
+    "Song/the god man's goat lust.md",
     "Song/Eyes Like the Sky (song).md",
-    "magenta mountain.md",
+    "Song/magenta mountain.md",
     "Song/kepler-22b.md",
     "/year of our lord.md",
     "/the raid.md",
@@ -149,7 +159,6 @@
     "/kepler-22b.md",
     "/fort whipple.md",
     "/evil man.md",
-    "/dust in the wind.md",
     "Songs",
     "Albums"
   ]
