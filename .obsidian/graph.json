@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "King Gizzard",
@@ -35,10 +35,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.521052631578947,
-  "repelStrength": 12,
-  "linkStrength": 0.576124567474048,
+  "centerStrength": 0.394736842105263,
+  "repelStrength": 11.2631578947368,
+  "linkStrength": 0.710526315789474,
   "linkDistance": 146,
-  "scale": 0.32622554220931865,
+  "scale": 0.34573326439510293,
   "close": true
 }
