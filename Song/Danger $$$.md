@@ -3,7 +3,14 @@ ___
 WIP
 
 >[!info]- Lyrics
->WIP 
+> Danger money
+> Danger money
+> Danger money
+> I want Danger money
+> Danger money
+> Danger funny
+> Danger money
+> I want Danger money
 ___
 
 ## Next track

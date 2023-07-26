@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Album/Polygondwanaland.md",
+                "file": "Song/Danger $$$.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Album/Polygondwanaland.md",
+            "file": "Song/Danger $$$.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Album/Polygondwanaland.md",
+            "file": "Song/Danger $$$.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Album/Polygondwanaland.md"
+            "file": "Song/Danger $$$.md"
           }
         }
       }
@@ -131,6 +131,7 @@
   },
   "active": "1ab2d79800eac43d",
   "lastOpenFiles": [
+    "Album/Polygondwanaland.md",
     "Song/Supercell.md",
     "Song/Wah wah.md",
     "Song/Stoned Mullet.md",
@@ -158,7 +159,6 @@
     "/the raid.md",
     "/the killing ground.md",
     "/the god man's goat lust.md",
-    "/the dripping tap.md",
     "Songs",
     "Albums"
   ]
