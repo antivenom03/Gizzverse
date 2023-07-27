@@ -11,8 +11,12 @@
             "id": "1ab2d79800eac43d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Album/I’m in Your Mind Fuzz (album).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Album/I’m in Your Mind Fuzz (album).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Album/I’m in Your Mind Fuzz (album).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Album/I’m in Your Mind Fuzz (album).md"
+          }
         }
       }
     ],
@@ -123,32 +131,34 @@
   },
   "active": "1ab2d79800eac43d",
   "lastOpenFiles": [
-    "dragon.md",
-    "Gila monster.md",
-    "witchcraft.md",
-    "Converge.md",
-    "Supercell.md",
-    "motor spirit.md",
-    "Sea of trees.md",
-    "uh oh, I called mom.md",
-    "bloody ripper.md",
-    "cut throat boogie.md",
-    "high hopes low.md",
-    "Sam cherry’s last shot.md",
-    "garage liddiard.md",
-    "12 Bar Bruise (song).md",
-    "nein.md",
-    "muckraker.md",
-    "elbow.md",
-    "K.G..md",
-    "/changes.md",
-    "PetroDragonic Apocalypse; or, Dawn of Eternal Night; An Annihilation of Planet Earth and the Beginning of Merciless Damnation.md",
+    "Song/Danger $$$.md",
+    "Album/Polygondwanaland.md",
+    "Song/Supercell.md",
+    "Song/Wah wah.md",
+    "Song/Stoned Mullet.md",
+    "Album/laminated denim.md",
+    "Song/elbow.md",
+    "Song/nein.md",
+    "Song",
+    "Album",
     "King Gizzard and the Lizard Wizard.md",
-    "changes.md",
-    "Omnium Gatherum.md",
-    "Mr. Beat.md",
-    "ice, death, planets, lungs, mushrooms, and lava.md",
-    "people vultures.md",
+    "Song/evil man.md",
+    "Song/dust in the wind.md",
+    "Album/Fishing for Fishies (album).md",
+    "Song/fort whipple.md",
+    "Song/the raid.md",
+    "Album/Eyes Like the Sky (album).md",
+    "Song/the killing ground.md",
+    "Song/drum run.md",
+    "Song/the dripping tap.md",
+    "Song/year of our lord.md",
+    "Song/the god man's goat lust.md",
+    "Song/Eyes Like the Sky (song).md",
+    "Song/magenta mountain.md",
+    "Song/kepler-22b.md",
+    "/year of our lord.md",
+    "/the raid.md",
+    "/the killing ground.md",
     "Songs",
     "Albums"
   ]
