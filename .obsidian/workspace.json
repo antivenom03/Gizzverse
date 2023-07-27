@@ -11,12 +11,8 @@
             "id": "558c132dc209e9d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Float Along - Fill Your Lungs.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Float Along - Fill Your Lungs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Float Along - Fill Your Lungs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Float Along - Fill Your Lungs.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -138,6 +130,9 @@
   },
   "active": "558c132dc209e9d5",
   "lastOpenFiles": [
+    "PetroDragonic Apocalypse; or, Dawn of Eternal Night; An Annihilation of Planet Earth and the Beginning of Merciless Damnation.md",
+    "motor spirit.md",
+    "Float Along - Fill Your Lungs.md",
     "dust in the wind.md",
     "the killing ground.md",
     "the god man's goat lust.md",
