@@ -11,7 +11,7 @@ ___
 >- [[Album/Eyes Like the Sky (album)]]
 >- [[Float Along - Fill Your Lungs]]
 >- [[Oddments]]
->- [[I’m in Your Mind Fuzz]]
+>- [[I’m in Your Mind Fuzz (album)]]
 >- [[Quarters!]]
 >- [[Paper Mâché Dream Balloon (album)]]
 >- [[Nonagon Infinity]]

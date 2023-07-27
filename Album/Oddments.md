@@ -1,3 +1,3 @@
 ## next album
 ___
-[[I’m in Your Mind Fuzz]]
+[[I’m in Your Mind Fuzz (album)]]

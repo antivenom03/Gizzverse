@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Song/Danger $$$.md",
+                "file": "Album/I’m in Your Mind Fuzz (album).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Song/Danger $$$.md",
+            "file": "Album/I’m in Your Mind Fuzz (album).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Song/Danger $$$.md",
+            "file": "Album/I’m in Your Mind Fuzz (album).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Song/Danger $$$.md"
+            "file": "Album/I’m in Your Mind Fuzz (album).md"
           }
         }
       }
@@ -131,6 +131,7 @@
   },
   "active": "1ab2d79800eac43d",
   "lastOpenFiles": [
+    "Song/Danger $$$.md",
     "Album/Polygondwanaland.md",
     "Song/Supercell.md",
     "Song/Wah wah.md",
@@ -158,7 +159,6 @@
     "/year of our lord.md",
     "/the raid.md",
     "/the killing ground.md",
-    "/the god man's goat lust.md",
     "Songs",
     "Albums"
   ]
