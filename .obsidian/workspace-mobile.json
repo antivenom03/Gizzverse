@@ -11,12 +11,8 @@
             "id": "1ab2d79800eac43d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Album/I’m in Your Mind Fuzz (album).md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Album/I’m in Your Mind Fuzz (album).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Album/I’m in Your Mind Fuzz (album).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Album/I’m in Your Mind Fuzz (album).md"
-          }
+          "state": {}
         }
       }
     ],
@@ -131,6 +123,11 @@
   },
   "active": "1ab2d79800eac43d",
   "lastOpenFiles": [
+    "Album/I’m in Your Mind Fuzz (album).md",
+    "I’m in your mind fuzz (song).md",
+    "Cellophane.md",
+    "I’m not in your mind.md",
+    "I’m in Your Mind.md",
     "Song/Danger $$$.md",
     "Album/Polygondwanaland.md",
     "Song/Supercell.md",
@@ -154,11 +151,6 @@
     "Song/year of our lord.md",
     "Song/the god man's goat lust.md",
     "Song/Eyes Like the Sky (song).md",
-    "Song/magenta mountain.md",
-    "Song/kepler-22b.md",
-    "/year of our lord.md",
-    "/the raid.md",
-    "/the killing ground.md",
     "Songs",
     "Albums"
   ]
