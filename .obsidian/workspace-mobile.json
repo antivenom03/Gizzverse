@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Album/Polygondwanaland.md",
+                "file": "Album/butterfly 3000 (album).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Album/Polygondwanaland.md",
+            "file": "Album/butterfly 3000 (album).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Album/Polygondwanaland.md",
+            "file": "Album/butterfly 3000 (album).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Album/Polygondwanaland.md"
+            "file": "Album/butterfly 3000 (album).md"
           }
         }
       }
@@ -131,13 +131,15 @@
   },
   "active": "1ab2d79800eac43d",
   "lastOpenFiles": [
+    "2.02 killer year.md",
+    "Album/butterfly 3000 (album).md",
+    "Album/Polygondwanaland.md",
     "Album/I’m in Your Mind Fuzz (album).md",
     "I’m in your mind fuzz (song).md",
     "Cellophane.md",
     "I’m not in your mind.md",
     "I’m in Your Mind.md",
     "Song/Danger $$$.md",
-    "Album/Polygondwanaland.md",
     "Song/Supercell.md",
     "Song/Wah wah.md",
     "Song/Stoned Mullet.md",
@@ -157,8 +159,6 @@
     "Song/drum run.md",
     "Song/the dripping tap.md",
     "Song/year of our lord.md",
-    "Song/the god man's goat lust.md",
-    "Song/Eyes Like the Sky (song).md",
     "Songs",
     "Albums"
   ]

@@ -12,4 +12,4 @@ ___
 
 ## next album
 ___
-[[butterfly 3000]]
+[[butterfly 3000 (album)]]
