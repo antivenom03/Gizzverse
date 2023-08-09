@@ -11,8 +11,12 @@
             "id": "1ab2d79800eac43d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "The land before timeland.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "The land before timeland.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "The land before timeland.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "The land before timeland.md"
+          }
         }
       }
     ],
@@ -123,6 +131,8 @@
   },
   "active": "1ab2d79800eac43d",
   "lastOpenFiles": [
+    "Album/laminated denim.md",
+    "The land before timeland.md",
     "Album/butterfly 3000 (album).md",
     "2.02 killer year.md",
     "Album/Polygondwanaland.md",
@@ -135,7 +145,6 @@
     "Song/Supercell.md",
     "Song/Wah wah.md",
     "Song/Stoned Mullet.md",
-    "Album/laminated denim.md",
     "Song/elbow.md",
     "Song/nein.md",
     "Song",
@@ -150,7 +159,6 @@
     "Song/the killing ground.md",
     "Song/drum run.md",
     "Song/the dripping tap.md",
-    "Song/year of our lord.md",
     "Songs",
     "Albums"
   ]
