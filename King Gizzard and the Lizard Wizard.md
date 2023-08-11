@@ -18,7 +18,7 @@ ___
 >- [[Flying Microtonal Banana]]
 >- [[Murder of the Universe (album)]]
 >- [[Sketches of Brunswick East]]
->- [[Polygondwanaland]]
+>- [[Polygondwanaland (album)]]
 >- [[Gumboot Soup[[Album/Fishing for Fishies (album)]]es (album)]]
 >- [[Infest the rats’ nest]]
 >- [[Album/K.G.]]K.G.]]
