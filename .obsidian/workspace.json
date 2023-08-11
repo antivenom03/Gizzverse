@@ -11,24 +11,15 @@
             "id": "558c132dc209e9d5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "820817f1ff0641ea",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Album/Murder of the Universe.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Album/Murder of the Universe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Album/Murder of the Universe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Album/Murder of the Universe.md"
               }
             }
           }
@@ -145,8 +136,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "820817f1ff0641ea",
+  "active": "558c132dc209e9d5",
   "lastOpenFiles": [
+    "Album/Made in Timeland.md",
     "conflict-files-obsidian-git.md",
     "The land before timeland.md",
     "I’m not in your mind.md",
@@ -172,7 +164,6 @@
     "Song/robot stop.md",
     "Song/people vultures.md",
     "Song/motor spirit.md",
-    "Song/nein.md",
     "Song",
     "Album"
   ]
