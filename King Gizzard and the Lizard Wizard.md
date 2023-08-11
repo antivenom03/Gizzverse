@@ -23,7 +23,7 @@ ___
 >- [[Infest the rats’ nest]]
 >- [[Album/K.G.]]K.G.]]
 >- [[Album/L.W.]]
->- [[butterfly 3000]]
+>- [[butterfly 3000 (album)]]
 >- [[Made in Timeland]]
 >- [[Omnium Gatherum]]
 >- [[ice, death, planets, lungs, mushrooms, and lava]]
