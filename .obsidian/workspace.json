@@ -11,12 +11,8 @@
             "id": "558c132dc209e9d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Album/Murder of the Universe.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Album/Murder of the Universe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Album/Murder of the Universe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Album/Murder of the Universe.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -138,6 +130,7 @@
   },
   "active": "558c132dc209e9d5",
   "lastOpenFiles": [
+    "Album/Murder of the Universe (album).md",
     "Album/Made in Timeland.md",
     "conflict-files-obsidian-git.md",
     "The land before timeland.md",
@@ -163,7 +156,6 @@
     "Song/Road train.md",
     "Song/robot stop.md",
     "Song/people vultures.md",
-    "Song/motor spirit.md",
     "Song",
     "Album"
   ]

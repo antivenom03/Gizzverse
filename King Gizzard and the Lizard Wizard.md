@@ -16,7 +16,7 @@ ___
 >- [[Paper Mâché Dream Balloon (album)]]
 >- [[Nonagon Infinity]]
 >- [[Flying Microtonal Banana]]
->- [[Murder of the Universe]]
+>- [[Murder of the Universe (album)]]
 >- [[Sketches of Brunswick East]]
 >- [[Polygondwanaland]]
 >- [[Gumboot Soup[[Album/Fishing for Fishies (album)]]es (album)]]
