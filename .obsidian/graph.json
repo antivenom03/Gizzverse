@@ -5,18 +5,40 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "#band",
+      "color": {
+        "a": 1,
+        "rgb": 15662848
+      }
+    },
+    {
+      "query": "album",
+      "color": {
+        "a": 1,
+        "rgb": 16751084
+      }
+    },
+    {
+      "query": "song",
+      "color": {
+        "a": 1,
+        "rgb": 10745087
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -1.6,
+  "nodeSizeMultiplier": 0.905363321799308,
+  "lineSizeMultiplier": 0.80363321799308,
   "collapse-forces": false,
-  "centerStrength": 0.403114186851211,
-  "repelStrength": 12.1453287197232,
-  "linkStrength": 0.78719723183391,
-  "linkDistance": 153,
-  "scale": 0.3489827724626744,
+  "centerStrength": 0.205882352941176,
+  "repelStrength": 5.15570934256055,
+  "linkStrength": 0.783737024221453,
+  "linkDistance": 192,
+  "scale": 0.6859451982440367,
   "close": false
 }

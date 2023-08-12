@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#band",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +53,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -130,6 +131,7 @@
   },
   "active": "558c132dc209e9d5",
   "lastOpenFiles": [
+    "King Gizzard and the Lizard Wizard.md",
     "Album/Polygondwanaland (album).md",
     "Album/Murder of the Universe (album).md",
     "Album/Made in Timeland.md",
@@ -155,7 +157,6 @@
     "Song/Sea of trees.md",
     "Song/Sam cherry’s last shot.md",
     "Song/Road train.md",
-    "Song/robot stop.md",
     "Song",
     "Album"
   ]
