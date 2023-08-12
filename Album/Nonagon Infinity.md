@@ -12,4 +12,4 @@ ___
 
 ## next album
 ___
-[[Flying Microtonal Banana]]
+[[Flying Microtonal Banana (album)]]

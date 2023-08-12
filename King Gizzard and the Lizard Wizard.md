@@ -15,7 +15,7 @@ ___
 >- [[Quarters!]]
 >- [[Paper Mâché Dream Balloon (album)]]
 >- [[Nonagon Infinity]]
->- [[Flying Microtonal Banana]]
+>- [[Flying Microtonal Banana (album)]]
 >- [[Murder of the Universe (album)]]
 >- [[Sketches of Brunswick East]]
 >- [[Polygondwanaland (album)]]
