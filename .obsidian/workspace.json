@@ -11,22 +11,15 @@
             "id": "558c132dc209e9d5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "aaf3ff314d5de0e3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.7"
+                "file": "Album/ice, death, planets, lungs, mushrooms, and lava.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Album/ice, death, planets, lungs, mushrooms, and lava.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,6 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Album/ice, death, planets, lungs, mushrooms, and lava.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +118,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Album/ice, death, planets, lungs, mushrooms, and lava.md"
+              }
             }
           }
         ]
@@ -141,7 +138,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aaf3ff314d5de0e3",
+  "active": "558c132dc209e9d5",
   "lastOpenFiles": [
     "Album/PetroDragonic Apocalypse; or, Dawn of Eternal Night; An Annihilation of Planet Earth and the Beginning of Merciless Damnation.md",
     "Album/Oddments (album).md",
