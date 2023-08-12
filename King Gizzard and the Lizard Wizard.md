@@ -4,11 +4,11 @@ WIP
 
 ## Discography 
 ___
->[!info]- albums
+>[!info]+ albums
 >
 >- [[Willoughby’s Beach (album)]]
->- [[Album/12 Bar Bruise (album)]]bum)]]
->- [[Album/Eyes Like the Sky (album)]]
+>- [[12 Bar Bruise (album)]]
+>- [[Eyes Like the Sky (album)]]
 >- [[Float Along - Fill Your Lungs]]
 >- [[Oddments]]
 >- [[I’m in Your Mind Fuzz (album)]]
@@ -19,10 +19,11 @@ ___
 >- [[Murder of the Universe (album)]]
 >- [[Sketches of Brunswick East]]
 >- [[Polygondwanaland (album)]]
->- [[Gumboot Soup[[Album/Fishing for Fishies (album)]]es (album)]]
+>- [[Gumboot Soup]]
+>- [[Fishing for Fishies (album)]]
 >- [[Infest the rats’ nest]]
->- [[Album/K.G.]]K.G.]]
->- [[Album/L.W.]]
+>- [[K.G.]]
+>- [[L.W.]]
 >- [[butterfly 3000 (album)]]
 >- [[Made in Timeland]]
 >- [[Omnium Gatherum]]

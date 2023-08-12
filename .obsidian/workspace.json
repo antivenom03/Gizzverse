@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#band",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "d8636fd54d79cffc",
@@ -129,7 +130,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "558c132dc209e9d5",
+  "active": "c6057f419d524a8d",
   "lastOpenFiles": [
     "King Gizzard and the Lizard Wizard.md",
     "Album/Polygondwanaland (album).md",
