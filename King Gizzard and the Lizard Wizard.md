@@ -10,7 +10,7 @@ ___
 >- [[12 Bar Bruise (album)]]
 >- [[Eyes Like the Sky (album)]]
 >- [[Float Along - Fill Your Lungs]]
->- [[Oddments]]
+>- [[Oddments (album)]]
 >- [[I’m in Your Mind Fuzz (album)]]
 >- [[Quarters!]]
 >- [[Paper Mâché Dream Balloon (album)]]

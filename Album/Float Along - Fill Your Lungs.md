@@ -1,3 +1,3 @@
 ## next album
 ___
-[[Oddments]]
+[[Oddments (album)]]
