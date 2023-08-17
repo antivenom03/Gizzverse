@@ -2,7 +2,7 @@
 ___
 - [[the dripping tap]]
 - [[magenta mountain]]
-- [[Song/kepler-22b]]22b]]
+- [[kepler-22b]]
 - [[gaia]]
 - [[ambergris]]
 - [[sadie sorceress]]

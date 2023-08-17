@@ -11,4 +11,4 @@ ___
 - [[guns and horses]]
 ## next album
 ___
-[[Float Along - Fill Your Lungs]]
+[[Float Along - Fill Your Lungs (album)]]

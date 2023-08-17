@@ -9,7 +9,7 @@ ___
 >- [[Willoughby’s Beach (album)]]
 >- [[12 Bar Bruise (album)]]
 >- [[Eyes Like the Sky (album)]]
->- [[Float Along - Fill Your Lungs]]
+>- [[Float Along - Fill Your Lungs (album)]]
 >- [[Oddments (album)]]
 >- [[I’m in Your Mind Fuzz (album)]]
 >- [[Quarters!]]

@@ -11,12 +11,8 @@
             "id": "558c132dc209e9d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Album/Float Along - Fill Your Lungs.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Album/Float Along - Fill Your Lungs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Album/Float Along - Fill Your Lungs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Album/Float Along - Fill Your Lungs.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -138,18 +130,23 @@
   },
   "active": "558c132dc209e9d5",
   "lastOpenFiles": [
+    "evilest man.md",
+    "sadie sorceress.md",
+    "ambergris.md",
+    "gaia.md",
+    "Song/kepler-22b.md",
+    "Album/Omnium Gatherum.md",
+    "Song/the dripping tap.md",
+    "Album/Float Along - Fill Your Lungs (album).md",
     "Head on/Pill.md",
-    "Album/Float Along - Fill Your Lungs.md",
     "Head on",
     "Album/Gumboot Soup.md",
     "Album/ice, death, planets, lungs, mushrooms, and lava.md",
     "Album/changes.md",
     "Album/Sketches of Brunswick East.md",
     "Album/Made in Timeland.md",
-    "Song/kepler-22b.md",
     "Album/Quarters!.md",
     "Song/magenta mountain.md",
-    "Album/Omnium Gatherum.md",
     "Album/PetroDragonic Apocalypse; or, Dawn of Eternal Night; An Annihilation of Planet Earth and the Beginning of Merciless Damnation.md",
     "Album/Oddments (album).md",
     "King Gizzard and the Lizard Wizard.md",
@@ -160,11 +157,6 @@
     "The land before timeland.md",
     "I’m not in your mind.md",
     "I’m in your mind fuzz (song).md",
-    "I’m in Your Mind.md",
-    "Cellophane.md",
-    "Album/butterfly 3000 (album).md",
-    "2.02 killer year.md",
-    "Song/year of our lord.md",
     "Song",
     "Album"
   ]
