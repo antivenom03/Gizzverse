@@ -11,12 +11,8 @@
             "id": "558c132dc209e9d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Album/ice, death, planets, lungs, mushrooms, and lava.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -79,7 +75,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Album/ice, death, planets, lungs, mushrooms, and lava.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +91,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Album/ice, death, planets, lungs, mushrooms, and lava.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,9 +112,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Album/ice, death, planets, lungs, mushrooms, and lava.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -140,6 +132,7 @@
   },
   "active": "558c132dc209e9d5",
   "lastOpenFiles": [
+    "Album/ice, death, planets, lungs, mushrooms, and lava.md",
     "Album/PetroDragonic Apocalypse; or, Dawn of Eternal Night; An Annihilation of Planet Earth and the Beginning of Merciless Damnation.md",
     "Album/Oddments (album).md",
     "King Gizzard and the Lizard Wizard.md",
@@ -165,7 +158,6 @@
     "Song/the god man's goat lust.md",
     "Song/the dripping tap.md",
     "Song/Supercell.md",
-    "Song/Stoned Mullet.md",
     "Song",
     "Album"
   ]
