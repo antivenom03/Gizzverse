@@ -11,8 +11,12 @@
             "id": "558c132dc209e9d5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Album/Float Along - Fill Your Lungs.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -53,13 +57,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "d8636fd54d79cffc",
@@ -75,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Album/Float Along - Fill Your Lungs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Album/Float Along - Fill Your Lungs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Album/Float Along - Fill Your Lungs.md"
+              }
             }
           }
         ]
@@ -132,6 +138,9 @@
   },
   "active": "558c132dc209e9d5",
   "lastOpenFiles": [
+    "Head on/Pill.md",
+    "Album/Float Along - Fill Your Lungs.md",
+    "Head on",
     "Album/Gumboot Soup.md",
     "Album/ice, death, planets, lungs, mushrooms, and lava.md",
     "Album/changes.md",
@@ -156,8 +165,6 @@
     "Album/butterfly 3000 (album).md",
     "2.02 killer year.md",
     "Song/year of our lord.md",
-    "Song/witchcraft.md",
-    "Song/Willoughby’s Beach (song).md",
     "Song",
     "Album"
   ]
