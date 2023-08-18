@@ -11,8 +11,12 @@
             "id": "1ab2d79800eac43d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "A new world.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "A new world.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "A new world.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "A new world.md"
+          }
         }
       }
     ],
@@ -123,34 +131,34 @@
   },
   "active": "1ab2d79800eac43d",
   "lastOpenFiles": [
-    "The land before timeland.md",
-    "Album/laminated denim.md",
-    "Album/butterfly 3000 (album).md",
-    "2.02 killer year.md",
-    "Album/Polygondwanaland.md",
-    "Album/I’m in Your Mind Fuzz (album).md",
-    "I’m in your mind fuzz (song).md",
-    "Cellophane.md",
-    "I’m not in your mind.md",
-    "I’m in Your Mind.md",
-    "Song/Danger $$$.md",
-    "Song/Supercell.md",
-    "Song/Wah wah.md",
-    "Song/Stoned Mullet.md",
-    "Song/elbow.md",
-    "Song/nein.md",
+    "Album/Murder of the Universe (album).md",
+    "A new world.md",
+    "Album/Flying Microtonal Banana (album).md",
+    "Album/Oddments (album).md",
+    "ambergris.md",
+    "Album/Float Along - Fill Your Lungs (album).md",
+    "sadie sorceress.md",
+    "evilest man.md",
+    "gaia.md",
+    "Album/Polygondwanaland (album).md",
+    "/Album/Omnium Gatherum.md",
+    "/sadie sorceress.md",
+    "/gaia.md",
+    "/evilest man.md",
+    "/ambergris.md",
+    "/Song/magenta mountain.md",
+    "/Song/kepler-22b.md",
+    "/King Gizzard and the Lizard Wizard.md",
+    "/Album/ice, death, planets, lungs, mushrooms, and lava.md",
+    "/Album/changes.md",
+    "/Album/Sketches of Brunswick East.md",
+    "/Album/Quarters!.md",
+    "/Album/Polygondwanaland (album).md",
+    "/Album/PetroDragonic Apocalypse; or, Dawn of Eternal Night; An Annihilation of Planet Earth and the Beginning of Merciless Damnation.md",
+    "/Album/Oddments (album).md",
+    "/Album/Nonagon Infinity.md",
     "Song",
     "Album",
-    "King Gizzard and the Lizard Wizard.md",
-    "Song/evil man.md",
-    "Song/dust in the wind.md",
-    "Album/Fishing for Fishies (album).md",
-    "Song/fort whipple.md",
-    "Song/the raid.md",
-    "Album/Eyes Like the Sky (album).md",
-    "Song/the killing ground.md",
-    "Song/drum run.md",
-    "Song/the dripping tap.md",
     "Songs",
     "Albums"
   ]
