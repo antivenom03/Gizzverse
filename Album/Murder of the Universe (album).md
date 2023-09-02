@@ -8,7 +8,7 @@ ___
 - [[Altered Beast III]]
 - [[Alter Me III]]
 - [[Altered Beast IV]]
-- [[Life,Death]]
+- [[Life/Death]]
 - [[Some Context]]
 - [[the reticent raconteur]]
 - [[The Lord of Lightning]]

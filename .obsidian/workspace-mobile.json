@@ -11,56 +11,9 @@
             "id": "1ab2d79800eac43d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Album/Omnium Gatherum.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "82d71fd3e3b30283"
-          }
-        ]
-      },
-      {
-        "id": "84c66ccce7081a2d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fa01109cd267e343",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Album/Omnium Gatherum.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            },
-            "group": "82d71fd3e3b30283"
+              "type": "graph",
+              "state": {}
+            }
           }
         ]
       }
@@ -128,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Album/Omnium Gatherum.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -145,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Album/Omnium Gatherum.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -156,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Album/Omnium Gatherum.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -172,38 +121,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fa01109cd267e343",
+  "active": "1ab2d79800eac43d",
   "lastOpenFiles": [
-    "Song/Crookedile.md",
-    "Song/Lunch Meat.md",
-    "Song/Dead-Beat.md",
-    "Song/Dustbin Fletcher.md",
-    "Song/Let it Bleed.md",
-    "Song/Black Tooth.md",
-    "Song/magenta mountain.md",
-    "Song/dust in the wind.md",
-    "Song/muckraker.md",
-    "Song/witchcraft.md",
-    "sadie sorceress.md",
-    "Song/kepler-22b.md",
-    "Song/the god man's goat lust.md",
-    "Song/the dripping tap.md",
-    "Song/the killing ground.md",
-    "gaia.md",
-    "Song/motor spirit.md",
-    "Song/nein.md",
-    "The land before timeland.md",
-    "Song/high hopes low.md",
-    "Song/the raid.md",
-    "Song/fort whipple.md",
-    "evilest man.md",
-    "Song/evil man.md",
+    "A new world.md",
+    "Album/Murder of the Universe (album).md",
+    "Album/Flying Microtonal Banana (album).md",
+    "Album/Oddments (album).md",
     "ambergris.md",
-    "Song/garage liddiard.md",
-    "Album",
+    "Album/Float Along - Fill Your Lungs (album).md",
+    "sadie sorceress.md",
+    "evilest man.md",
+    "gaia.md",
+    "Album/Polygondwanaland (album).md",
+    "/Album/Omnium Gatherum.md",
+    "/sadie sorceress.md",
+    "/gaia.md",
+    "/evilest man.md",
+    "/ambergris.md",
+    "/Song/magenta mountain.md",
+    "/Song/kepler-22b.md",
+    "/King Gizzard and the Lizard Wizard.md",
+    "/Album/ice, death, planets, lungs, mushrooms, and lava.md",
+    "/Album/changes.md",
+    "/Album/Sketches of Brunswick East.md",
+    "/Album/Quarters!.md",
+    "/Album/Polygondwanaland (album).md",
+    "/Album/PetroDragonic Apocalypse; or, Dawn of Eternal Night; An Annihilation of Planet Earth and the Beginning of Merciless Damnation.md",
+    "/Album/Oddments (album).md",
+    "/Album/Nonagon Infinity.md",
     "Song",
-    "/Song",
-    "/Album",
+    "Album",
     "Songs",
     "Albums"
   ]
