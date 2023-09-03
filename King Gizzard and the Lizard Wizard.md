@@ -2,12 +2,6 @@
 ___
 WIP
 
-## test
-___
-```mermaid
-
-```
-
 ## Discography 
 ___
 >[!info]+ albums

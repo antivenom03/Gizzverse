@@ -11,8 +11,12 @@
             "id": "558c132dc209e9d5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "King Gizzard and the Lizard Wizard.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "King Gizzard and the Lizard Wizard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "King Gizzard and the Lizard Wizard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "King Gizzard and the Lizard Wizard.md"
+              }
             }
           }
         ]
@@ -128,24 +136,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "558c132dc209e9d5",
+  "active": "764b41174638bfbf",
   "lastOpenFiles": [
     "Album/Murder of the Universe (album).md",
     "Album/L.W..md",
-    "Altered Beast IV.md",
+    "Song/Altered Beast IV.md",
     "Life/Death.md",
     "Life",
-    "Alter Me III.md",
-    "Altered Beast III.md",
-    "Alter Me II.md",
-    "Altered Beast II.md",
-    "Alter Me I.md",
-    "Altered Beast I.md",
-    "A new world.md",
-    "evilest man.md",
-    "sadie sorceress.md",
-    "ambergris.md",
-    "gaia.md",
+    "Song/Alter Me III.md",
+    "Song/Altered Beast III.md",
+    "Song/Alter Me II.md",
+    "Song/Altered Beast II.md",
+    "Song/Alter Me I.md",
+    "Song/Altered Beast I.md",
+    "Song/A new world.md",
+    "Song/evilest man.md",
+    "Song/sadie sorceress.md",
+    "Song/ambergris.md",
+    "Song/gaia.md",
     "Song/kepler-22b.md",
     "Album/Omnium Gatherum.md",
     "Song/the dripping tap.md",
