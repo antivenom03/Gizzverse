@@ -11,8 +11,12 @@
             "id": "1ab2d79800eac43d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Album/Omnium Gatherum.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Album/Omnium Gatherum.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Album/Omnium Gatherum.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Album/Omnium Gatherum.md"
+          }
         }
       }
     ],
@@ -123,34 +131,36 @@
   },
   "active": "1ab2d79800eac43d",
   "lastOpenFiles": [
-    "A new world.md",
-    "Album/Murder of the Universe (album).md",
-    "Album/Flying Microtonal Banana (album).md",
-    "Album/Oddments (album).md",
-    "ambergris.md",
-    "Album/Float Along - Fill Your Lungs (album).md",
+    "Song/Crookedile.md",
+    "Song/Lunch Meat.md",
+    "Song/Dead-Beat.md",
+    "Song/Dustbin Fletcher.md",
+    "Song/Let it Bleed.md",
+    "Song/Black Tooth.md",
+    "Song/magenta mountain.md",
+    "Song/dust in the wind.md",
+    "Song/muckraker.md",
+    "Song/witchcraft.md",
     "sadie sorceress.md",
-    "evilest man.md",
+    "Song/kepler-22b.md",
+    "Song/the god man's goat lust.md",
+    "Song/the dripping tap.md",
+    "Song/the killing ground.md",
     "gaia.md",
-    "Album/Polygondwanaland (album).md",
-    "/Album/Omnium Gatherum.md",
-    "/sadie sorceress.md",
-    "/gaia.md",
-    "/evilest man.md",
-    "/ambergris.md",
-    "/Song/magenta mountain.md",
-    "/Song/kepler-22b.md",
-    "/King Gizzard and the Lizard Wizard.md",
-    "/Album/ice, death, planets, lungs, mushrooms, and lava.md",
-    "/Album/changes.md",
-    "/Album/Sketches of Brunswick East.md",
-    "/Album/Quarters!.md",
-    "/Album/Polygondwanaland (album).md",
-    "/Album/PetroDragonic Apocalypse; or, Dawn of Eternal Night; An Annihilation of Planet Earth and the Beginning of Merciless Damnation.md",
-    "/Album/Oddments (album).md",
-    "/Album/Nonagon Infinity.md",
-    "Song",
+    "Song/motor spirit.md",
+    "Song/nein.md",
+    "The land before timeland.md",
+    "Song/high hopes low.md",
+    "Song/the raid.md",
+    "Song/fort whipple.md",
+    "evilest man.md",
+    "Song/evil man.md",
+    "ambergris.md",
+    "Song/garage liddiard.md",
     "Album",
+    "Song",
+    "/Song",
+    "/Album",
     "Songs",
     "Albums"
   ]
