@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Album/Omnium Gatherum.md",
+                "file": "King Gizzard and the Lizard Wizard.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Album/Omnium Gatherum.md",
+            "file": "King Gizzard and the Lizard Wizard.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Album/Omnium Gatherum.md",
+            "file": "King Gizzard and the Lizard Wizard.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Album/Omnium Gatherum.md"
+            "file": "King Gizzard and the Lizard Wizard.md"
           }
         }
       }
@@ -131,6 +131,7 @@
   },
   "active": "1ab2d79800eac43d",
   "lastOpenFiles": [
+    "Album/Omnium Gatherum.md",
     "Song/Crookedile.md",
     "Song/Lunch Meat.md",
     "Song/Dead-Beat.md",
@@ -156,7 +157,6 @@
     "evilest man.md",
     "Song/evil man.md",
     "ambergris.md",
-    "Song/garage liddiard.md",
     "Album",
     "Song",
     "/Song",
