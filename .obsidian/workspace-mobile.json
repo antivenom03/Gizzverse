@@ -11,12 +11,8 @@
             "id": "1ab2d79800eac43d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "King Gizzard and the Lizard Wizard.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "King Gizzard and the Lizard Wizard.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "King Gizzard and the Lizard Wizard.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "King Gizzard and the Lizard Wizard.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -131,36 +123,34 @@
   },
   "active": "1ab2d79800eac43d",
   "lastOpenFiles": [
-    "Album/Omnium Gatherum.md",
-    "Song/Crookedile.md",
-    "Song/Lunch Meat.md",
-    "Song/Dead-Beat.md",
-    "Song/Dustbin Fletcher.md",
-    "Song/Let it Bleed.md",
-    "Song/Black Tooth.md",
-    "Song/magenta mountain.md",
-    "Song/dust in the wind.md",
-    "Song/muckraker.md",
-    "Song/witchcraft.md",
-    "sadie sorceress.md",
-    "Song/kepler-22b.md",
-    "Song/the god man's goat lust.md",
-    "Song/the dripping tap.md",
-    "Song/the killing ground.md",
-    "gaia.md",
-    "Song/motor spirit.md",
-    "Song/nein.md",
-    "The land before timeland.md",
-    "Song/high hopes low.md",
-    "Song/the raid.md",
-    "Song/fort whipple.md",
-    "evilest man.md",
-    "Song/evil man.md",
-    "ambergris.md",
-    "Album",
+    "/Song/sadie sorceress.md",
+    "/Song/gaia.md",
+    "/Song/evilest man.md",
+    "/Song/ambergris.md",
+    "Song/Cellophane.md",
+    "Song/God is in the Rhythm.md",
+    "Song/Hot water.md",
+    "Song/Mystery Jack.md",
+    "Song/Pop in My Step.md",
+    "Song/Altered Beast I.md",
+    "Song/Alter Me II.md",
+    "Song/Magma.md",
+    "Song/Sleepwalker.md",
+    "Song/satan speeds up.md",
+    "Song/Crying.md",
+    "Song/red smoke.md",
+    "Song/Rattlesnake.md",
+    "Gondii.md",
+    "Song/30 Past 7.md",
+    "Song/Hell's Itch.md",
+    "Song/Altered Beast III.md",
+    "Song/Hot Wax.md",
+    "Song/Alter Me I.md",
+    "Song/Am I in heaven.md",
+    "Song/I’m not in your mind.md",
+    "Song/Timeland.md",
     "Song",
-    "/Song",
-    "/Album",
+    "Album",
     "Songs",
     "Albums"
   ]
