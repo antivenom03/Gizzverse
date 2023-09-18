@@ -11,8 +11,12 @@
             "id": "1ab2d79800eac43d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "King Gizzard and the Lizard Wizard.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "King Gizzard and the Lizard Wizard.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "King Gizzard and the Lizard Wizard.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "King Gizzard and the Lizard Wizard.md"
+          }
         }
       }
     ],
@@ -123,34 +131,36 @@
   },
   "active": "1ab2d79800eac43d",
   "lastOpenFiles": [
-    "Dirt.md",
-    "bone.md",
-    "Album/Paper Mâché Dream Balloon (album).md",
     "sense.md",
-    "Song/sadie sorceress.md",
-    "Song/ambergris.md",
     "Song/gaia.md",
-    "Song/evilest man.md",
-    "/Song/sadie sorceress.md",
-    "/Song/gaia.md",
-    "/Song/evilest man.md",
-    "/Song/ambergris.md",
-    "Song/Cellophane.md",
     "Song/God is in the Rhythm.md",
-    "Song/Hot water.md",
-    "Song/Mystery Jack.md",
-    "Song/Pop in My Step.md",
+    "Song/Cellophane.md",
+    "Song/Ice V.md",
+    "Song/Am I in heaven.md",
     "Song/Altered Beast I.md",
-    "Song/Alter Me II.md",
-    "Song/Magma.md",
-    "Song/Sleepwalker.md",
+    "Song/Head on(Pill).md",
+    "Song/persistence.md",
+    "Song/Infinite Rise.md",
+    "Song/empty.md",
+    "Song/Homeless Man in Adidas.md",
+    "Exploding Suns.md",
+    "Song/Alter Me III.md",
     "Song/satan speeds up.md",
+    "Song/Lava.md",
     "Song/Crying.md",
-    "Song/red smoke.md",
-    "Song/Rattlesnake.md",
-    "Gondii.md",
-    "Song",
+    "No Body.md",
+    "Song/sadie sorceress.md",
+    "Song/A new world.md",
+    "Song/I’m not in your mind.md",
+    "Song/Mycelium.md",
+    "Song/The River.md",
+    "Song/I’m in Your Mind.md",
+    "Song/Alter Me I.md",
+    "Song/Vegemite.md",
     "Album",
+    "Song",
+    "/Song",
+    "/Album",
     "Songs",
     "Albums"
   ]
