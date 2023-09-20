@@ -11,12 +11,8 @@
             "id": "1ab2d79800eac43d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "King Gizzard and the Lizard Wizard.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "King Gizzard and the Lizard Wizard.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "King Gizzard and the Lizard Wizard.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "King Gizzard and the Lizard Wizard.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -131,6 +123,22 @@
   },
   "active": "1ab2d79800eac43d",
   "lastOpenFiles": [
+    "vomit coffin.md",
+    "Album/Murder of the Universe (album).md",
+    "Soy-protein munt machine.md",
+    "Han-Tyumi, The Confused Cyborg.md",
+    "digital black.md",
+    "Welcome to an altered future.md",
+    "The acrid Corpse.md",
+    "The Floating Fire.md",
+    "The Balrog.md",
+    "The Lord of Lightning.md",
+    "the reticent raconteur.md",
+    "Some Context.md",
+    "Life,Death.md",
+    "Song/Altered Beast IV.md",
+    "King Gizzard and the Lizard Wizard.md",
+    "Album/Willoughby’s Beach (album).md",
     "sense.md",
     "Song/gaia.md",
     "Song/God is in the Rhythm.md",
@@ -141,22 +149,6 @@
     "Song/Head on(Pill).md",
     "Song/persistence.md",
     "Song/Infinite Rise.md",
-    "Song/empty.md",
-    "Song/Homeless Man in Adidas.md",
-    "Exploding Suns.md",
-    "Song/Alter Me III.md",
-    "Song/satan speeds up.md",
-    "Song/Lava.md",
-    "Song/Crying.md",
-    "No Body.md",
-    "Song/sadie sorceress.md",
-    "Song/A new world.md",
-    "Song/I’m not in your mind.md",
-    "Song/Mycelium.md",
-    "Song/The River.md",
-    "Song/I’m in Your Mind.md",
-    "Song/Alter Me I.md",
-    "Song/Vegemite.md",
     "Album",
     "Song",
     "/Song",
