@@ -14,4 +14,4 @@ ___
 
 ## next album
 ___
-[[Album/Fishing for Fishies (album)]]bum)]]
+[[Fishing for Fishies (album)]]
