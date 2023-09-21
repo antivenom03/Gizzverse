@@ -7,7 +7,7 @@ ___
 - [[inner cell]]
 - [[loyalty]]
 - [[horology]]
-- [[terachromacy]]
+- [[tetrachromacy]]
 - [[searching...]]
 - [[the fourth colour]]
 
