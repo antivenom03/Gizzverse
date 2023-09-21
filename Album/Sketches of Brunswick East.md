@@ -11,7 +11,7 @@ ___
 - [[The Book]]
 - [[A Journey to S(Hell)]]
 - [[Rolling Stoned]]
-- [[You Can Be You Sillouette]]
+- [[You Can Be Your Sillouette]]
 - [[Sketches of Brunswick East III]]
 
 ## next album

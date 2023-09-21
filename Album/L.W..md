@@ -9,7 +9,6 @@ ___
 - [[ataraxia]]
 - [[see me]]
 - [[K.G.L.W. (2)]]
-
 ## next album
 ___
 [[butterfly 3000 (album)]]
