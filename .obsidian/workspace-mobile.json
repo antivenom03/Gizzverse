@@ -11,8 +11,12 @@
             "id": "1ab2d79800eac43d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Song/Rattlesnake.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Song/Rattlesnake.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Song/Rattlesnake.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Song/Rattlesnake.md"
+          }
         }
       }
     ],
@@ -123,6 +131,10 @@
   },
   "active": "1ab2d79800eac43d",
   "lastOpenFiles": [
+    "Open Water.md",
+    "Sleep Drifter.md",
+    "Album/Flying Microtonal Banana (album).md",
+    "Sleepdrifter.md",
     "Album/Polygondwanaland (album).md",
     "the fourth colour.md",
     "searching....md",
@@ -145,10 +157,6 @@
     "boogieman sam.md",
     "Fishing for Fishies (song).md",
     "Hell.md",
-    "self-immolate.md",
-    "venusian 2.md",
-    "Album/Infest the rats’ nest.md",
-    "venusian 1.md",
     "Album",
     "Song",
     "/Song",
