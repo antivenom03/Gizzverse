@@ -11,12 +11,8 @@
             "id": "1ab2d79800eac43d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Song/The River.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Song/The River.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Song/The River.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Song/The River.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -131,14 +123,22 @@
   },
   "active": "1ab2d79800eac43d",
   "lastOpenFiles": [
+    "Sleepdrifter.md",
+    "Hell.md",
+    "planet b.md",
+    "Album/Infest the rats’ nest.md",
+    "Oddments (song).md",
+    "Album/Oddments (album).md",
+    "Song/Homeless Man in Adidas.md",
+    "Song/The River.md",
     "Lonely Steel Sheet Flyer.md",
-    "Album/Quarters!.md",
     "Song/God is in the Rhythm.md",
+    "Song/Infinite Rise.md",
+    "Album/Quarters!.md",
     "Album/Flying Microtonal Banana (album).md",
     "Song/Rattlesnake.md",
     "Open Water.md",
     "Sleep Drifter.md",
-    "Sleepdrifter.md",
     "Album/Polygondwanaland (album).md",
     "the fourth colour.md",
     "searching....md",
@@ -149,14 +149,6 @@
     "deserted dunes welcome weary feet.md",
     "the castle in the air.md",
     "Polygondwanaland (song).md",
-    "Crumbling Castle.md",
-    "cyboogie.md",
-    "acarine.md",
-    "Album/Fishing for Fishies (album).md",
-    "this thing.md",
-    "real's not real.md",
-    "the cruel millenial.md",
-    "plastic boogie.md",
     "Album",
     "Song",
     "/Song",

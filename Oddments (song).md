@@ -1,3 +1,3 @@
 ## first track
 ___
-[[planet b]]
+[[Alluda Majaka]]
